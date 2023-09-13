@@ -2,7 +2,7 @@
 
 **Welcome to Hacktoberfest x DagsHub official contribution page!**
 
-![banner](https://user-images.githubusercontent.com/66431403/193427111-af11f270-bce0-4ad8-b0f9-02526312a9c2.png)
+![banner](https://github.com/DagsHub/Hacktoberfest-Issues/assets/66431403/5162bc97-0b19-4c0f-b24b-5e263876e29c)
 
 DagsHub and Hacktoberfest invite you to engage, contribute, and level up your machine Learning skills by contributing to Open Source Machine Learning projects!
 
