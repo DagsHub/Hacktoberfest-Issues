@@ -1,4 +1,4 @@
-# The Official Machine Learning and AI Challenge of Hacktoberfest 2023
+# The DagsHub's Machine Learning and AI Challenge of Hacktoberfest 2023
 
 **Welcome to Hacktoberfest x DagsHub official contribution page!**
 
