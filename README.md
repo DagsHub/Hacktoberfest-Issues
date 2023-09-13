@@ -17,9 +17,9 @@ Here's a step-by-step guide to get involved in this challenge:
 1. **Choose a Project**: Explore [open-source projects on DagsHub](https://dagshub.com/explore/repos) and select one that interests you.
 2. **Make a Contribution:** Fork the project on DagsHub under your name, solve an issue or make an enhancement the maintainers can benefit from.
 3. **Document Your Work**: Maintain clear and concise documentation describing your work, processing steps, and any dependencies. This documentation is crucial for future users and should be reflected in the project’s README file.
-4. **Tag your project:** Add relevant tags to the repository and files including `MLflow` , `experiment-tracking` , and `hacktoberfest` labels to the DagsHub repository.
+4. **Tag your project:** Add relevant tags to the repository and files including `hacktoberfest` and `hacktoberfest-2023` labels to the DagsHub repository.
 5. **Submit Your Contribution**: Open a Pull Request to the project on DagsHub.
-6. **Proof of Contribution**: Open a Pull Request [here](https://github.com/DagsHub/Hacktoberfest-Issues) with README file and a link to the project
+6. **Proof of Contribution**: Open a Pull Request [here](https://github.com/DagsHub/Hacktoberfest-Issues) with the README file and a link to the project
 
 ## **Why Join the Challenge?**
 
